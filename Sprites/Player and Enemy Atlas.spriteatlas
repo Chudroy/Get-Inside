@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player and Enemy Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: cdcae93b075534d45bf46035c157a256, type: 3}
+    - {fileID: 21300000, guid: d71cb018791cc5b479e8ed1d171318a3, type: 3}
+    - {fileID: 21300000, guid: 1e226e5120f298542bead0ad56f10013, type: 3}
+    - {fileID: 21300000, guid: c58fdeedcf824c842a7dacc018422d3e, type: 3}
+    - {fileID: 21300000, guid: ec6f80742c7f20b47a5096d3bf70225c, type: 3}
+    - {fileID: 21300000, guid: ada1dc1a428b70d4d853d47b3c739d12, type: 3}
+    - {fileID: 21300000, guid: e0273a659f3bf63438b012cc6f7c84a2, type: 3}
+    - {fileID: 21300000, guid: eb3e293aa44b6ea4d81f0e5d8e28093f, type: 3}
+    - {fileID: 21300000, guid: 59d5be5a37a76624cbaf3e8c7bb79835, type: 3}
+    - {fileID: 21300000, guid: e16dcbfa7897f484582c9301c1e9a272, type: 3}
+    - {fileID: 21300000, guid: b5666934254fb6641a09d568f3c787f2, type: 3}
+    - {fileID: 21300000, guid: 590ca044d27824746b34b52d4e30b42d, type: 3}
+    - {fileID: 2800000, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+    - {fileID: 21300000, guid: cdcae93b075534d45bf46035c157a256, type: 3}
+    - {fileID: 2800000, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+    - {fileID: 2800000, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+    - {fileID: 2800000, guid: 00251b7c140b08247bc3010862443353, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1e226e5120f298542bead0ad56f10013, type: 3}
+  - {fileID: 21300000, guid: b5666934254fb6641a09d568f3c787f2, type: 3}
+  - {fileID: 21300000, guid: 590ca044d27824746b34b52d4e30b42d, type: 3}
+  - {fileID: 21300000, guid: ec6f80742c7f20b47a5096d3bf70225c, type: 3}
+  - {fileID: 21300000, guid: e0273a659f3bf63438b012cc6f7c84a2, type: 3}
+  - {fileID: 1193769354922748834, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: 5932163352189672668, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: -3144859723568674625, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: 5773949252000964124, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: 9043308402211744452, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: 2687195792813469547, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: 4559387782619856284, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: 2994959595785901804, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: -1174562265216888596, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: 7863623207227729874, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: -2117067410633377549, guid: e8097c775d755fb4e93e4b3a933c319a, type: 3}
+  - {fileID: 21300000, guid: d71cb018791cc5b479e8ed1d171318a3, type: 3}
+  - {fileID: 21300000, guid: ada1dc1a428b70d4d853d47b3c739d12, type: 3}
+  - {fileID: 21300000, guid: eb3e293aa44b6ea4d81f0e5d8e28093f, type: 3}
+  - {fileID: 21300000, guid: 59d5be5a37a76624cbaf3e8c7bb79835, type: 3}
+  - {fileID: 21300000, guid: e16dcbfa7897f484582c9301c1e9a272, type: 3}
+  - {fileID: 21300000, guid: cdcae93b075534d45bf46035c157a256, type: 3}
+  - {fileID: 1640672818593911088, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: -8250312705354742321, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: -2754326122265929803, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: 85545143421987629, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: 9207558933095483856, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: 4342472389137739716, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: -8219739280431888678, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: -2311279805110041912, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: 7817628610459315, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: -3237046158211848504, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: 4386308584653347806, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: -5281958468895694509, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: -7272218120085624274, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: -1190831061741289179, guid: 00251b7c140b08247bc3010862443353, type: 3}
+  - {fileID: 2158696773487342678, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: 4037282826289677542, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: 9006031474323198405, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: 5490226390312183534, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: -219366820798337944, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: 877995897400678399, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: 7593503119649189081, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: -8097560026230830705, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: 7266518260485257643, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: -5558757904290739288, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: 896205884186761095, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: -4788209522720544221, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: -8648159776749490931, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: -276570841874577416, guid: 39744fbdcf872be4ca03f4534b286446, type: 3}
+  - {fileID: 21300000, guid: c58fdeedcf824c842a7dacc018422d3e, type: 3}
+  - {fileID: 2141458234487526138, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: 7619975628304720931, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: 4240703248396530277, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -9061199463640865050, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: 5154266598445858128, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -5609406566024755646, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -6175292048275449161, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -6337790639394332029, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -6260380998165048530, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -7882176676793880027, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: 3366012689777593862, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: 7453664206434044869, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: 4173750278556713790, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -6664286697874526798, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: 5695010369768721361, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -158619477588083610, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: 807137803116601658, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -4348155080937952966, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: 2932584408781161423, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: 6596256390532370900, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -8930508186887693452, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  - {fileID: -7766077961828400153, guid: a9ea52fe138d486438c1ea50e0b5d940, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Flare
+  - 'Sentry Head '
+  - 'Sentry Body '
+  - Alien Dead
+  - Robot Dead
+  - Player Axe 2_7
+  - Player Axe 2_6
+  - Player Axe 2_5
+  - Player Axe 2_4
+  - Player Axe 2_3
+  - Player Axe 2_2
+  - Player Axe 2_1
+  - Player Axe 2_0
+  - Player Axe 2_9
+  - Player Axe 2_8
+  - Player Axe 2_10
+  - knife
+  - Sentry Dead
+  - Robot Body
+  - Robot Head
+  - Flare 2
+  - Player Torch Flaregun
+  - Player Walk Anim_12
+  - Player Walk Anim_13
+  - Player Walk Anim_10
+  - Player Walk Anim_11
+  - Player Walk Anim_9
+  - Player Walk Anim_8
+  - Player Walk Anim_7
+  - Player Walk Anim_6
+  - Player Walk Anim_5
+  - Player Walk Anim_4
+  - Player Walk Anim_3
+  - Player Walk Anim_2
+  - Player Walk Anim_1
+  - Player Walk Anim_0
+  - Yeti Walk Anim_3
+  - Yeti Walk Anim_2
+  - Yeti Walk Anim_1
+  - Yeti Walk Anim_0
+  - Yeti Walk Anim_7
+  - Yeti Walk Anim_6
+  - Yeti Walk Anim_5
+  - Yeti Walk Anim_4
+  - Yeti Walk Anim_9
+  - Yeti Walk Anim_8
+  - Yeti Walk Anim_12
+  - Yeti Walk Anim_13
+  - Yeti Walk Anim_10
+  - Yeti Walk Anim_11
+  - Alien Higher Res
+  - Yeti Attack Animation_18
+  - Yeti Attack Animation_21
+  - Yeti Attack Animation_19
+  - Yeti Attack Animation_20
+  - Yeti Attack Animation_16
+  - Yeti Attack Animation_17
+  - Yeti Attack Animation_14
+  - Yeti Attack Animation_15
+  - Yeti Attack Animation_12
+  - Yeti Attack Animation_13
+  - Yeti Attack Animation_10
+  - Yeti Attack Animation_11
+  - Yeti Attack Animation_9
+  - Yeti Attack Animation_8
+  - Yeti Attack Animation_3
+  - Yeti Attack Animation_2
+  - Yeti Attack Animation_1
+  - Yeti Attack Animation_0
+  - Yeti Attack Animation_7
+  - Yeti Attack Animation_6
+  - Yeti Attack Animation_5
+  - Yeti Attack Animation_4
+  m_RenderDataMap: {}
+  m_Tag: Player and Enemy Atlas
+  m_IsVariant: 0

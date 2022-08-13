@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c36e6e298c818094a932346b59c96156, type: 3}
+  m_Name: enemyStats
+  m_EditorClassIdentifier: 
+  yetiDestinationDistance: 4
+  yetiDeathSprite: {fileID: 3714462640465109870, guid: 8652ef4252683584bac3051f71162a12, type: 3}
+  yetiForgetPlayerTime: 2
+  yetiDocileSpeed: 5
+  yetiHostileSpeed: 10
+  yetiAttackSpeed: 2
+  yetiSpawnPickupChance: 0.5
+  alienDeathSprite: {fileID: 3714462640465109870, guid: 51e4be2fb3a854545855732e02d1b264, type: 3}
+  alienProjectile: {fileID: 5089985001583843034, guid: b76ecc893164e4d40bc5604bd23e1e74, type: 3}
+  alienForgetPlayerTime: 5
+  alienDocileSpeed: 2
+  alienHostileSpeed: 4
+  alienAttackSpeed: 1
+  alienRunAwayDuration: 3
+  alienSpawnPickupChance: 0.5
+  robotDeadPrefab: {fileID: 1059130921040206686, guid: 2182c928c9c3d394094c2ac50698eea7, type: 3}
+  robotForgetPlayerTime: 5
+  robotDocileSpeed: 2
+  robotAttackSpeed: 1
+  robotLaserSpeed: 100
+  robotScanSpeed: 50
+  robotSpawnPickupChance: 1
+  forgetPlayerTime: 5
+  docileSpeed: 50
+  hostileSpeed: 100

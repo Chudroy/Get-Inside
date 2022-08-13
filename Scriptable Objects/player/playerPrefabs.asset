@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5eb77931ada372b42bfc710295009634, type: 3}
+  m_Name: playerPrefabs
+  m_EditorClassIdentifier: 
+  playerAxe: {fileID: 6198291640374773714, guid: 506db0f0b8c380c4e94725c52471d316, type: 3}
+  playerFlareGun: {fileID: 6198291640374773714, guid: 1cc788c751caab34dab52cb63daaf073, type: 3}
+  playerRicochetGun: {fileID: 6198291640374773714, guid: df30c68c533e6ce4dacb73464c4029eb, type: 3}
